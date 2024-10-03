@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Full Stack Auction Website",
+      "imageSrc": "projects/project1.png",
+      "description": "A MERN-Stack website with CRUD features",
+      "skills": ["React", "Express", "Node", "Postman", "MongoDB"],
+      "demo": "https://frontend-3-9u06.onrender.com/products",
+      "source": "https://github.com/Joyperm/auction-deploy-render.git"
+    },
+    {
+      "title": "Android Application",
+      "imageSrc": "projects/project2.png",
+      "description": "Health Guardian Android Application Built with Java",
+      "skills": ["Java", "Andriod development", "Mobile"],
+      "demo": "https://drive.google.com/file/d/1V4c094X_UNIeO873ZWU1SCwbgCNJUeba/view?usp=sharing",
+      "source": "https://github.com/Joyperm/health-android-application.git"
+    },
+    {
+      "title": "2D Platformer Game using C#",
+      "imageSrc": "projects/project3.png",
+      "description": "implementing a life force system, score collection",
+      "skills": ["C#", "Unity engine ", "OOP"],
+      "demo": "https://github.com/Joyperm/platform2Dgame.git",
+      "source": "https://github.com/Joyperm/platform2Dgame.git"
+    }
+  ]

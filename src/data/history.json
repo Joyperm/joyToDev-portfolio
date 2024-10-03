@@ -1,0 +1,30 @@
+[
+    {
+      "role": "CSIS student",
+      "organisation": "Douglas College",
+      "startDate": "Sept, 2023",
+      "endDate": "Present",
+      "experiences": ["Build a MERN stack CRUD website", "Build Andriod application using Java"],
+      "imageSrc": "history/DO.png"
+    },
+    {
+      "role": "Data Analyst ",
+      "organisation": "Chiang Mai University Library",
+      "startDate": "Sept, 2021",
+      "endDate": "July, 2023",
+      "experiences": ["Built relationships between tables in Power BI", 
+      "Created interactive dashboards, leading to a 20% reduction in budget waste",
+      "Executed ETL into Power BI, ensuring data accuracy and integrity for decision-making",
+      "Integrated Google Sheets with Power BI, reducing manual workload by 30%",
+      "Implemented data reporting system, achieved a 90% reduction in paper usage"],
+      "imageSrc": "history/cmul.jpg"
+    },
+    {
+      "role": "Economics Student Researcher",
+      "organisation": "Chiang Mai University",
+      "startDate": "Dec, 2017",
+      "endDate": "Aug, 2013",
+      "experiences": ["Conducted 100 surveys to analyze Chiang Mai University's student expenses as part of my bachelor thesis, resulting in valuable insights to streamline processes for entrepreneurs in the university area."],
+      "imageSrc": "history/econ.png"
+    }
+  ]
