@@ -1,8 +1,8 @@
-# React + Vite
+# JoyToDev Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+- Designed and implemented dynamic features using React hooks and CSS animations, which improved the overall user experience and interface responsiveness.
+- Reduced design iteration cycles by approximately 20% through the seamless integration of Figma for prototyping and design-to-code handoff.
+- Successfully deployed the website on Netlify, achieving smooth performance with no significant downtime since launch. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Visit my website](https://joytodev.netlify.app)
